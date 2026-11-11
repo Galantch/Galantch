@@ -1,29 +1,51 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+# Marco Galanti · Galantch
 
-###
+🇮🇹 Italiano · 🇬🇧 [English below](#-english)
 
-<p data-importer="text" align="left">My name is Marco and I'm a student, from Italy</p>
+---
 
-###
+## 🇮🇹 Italiano
 
-<h2 data-importer="text" align="left">About me</h2>
+Ciao, sono **Marco Galanti**, detto **Galantch**. Sono uno studente appassionato di matematica e di informatica.
 
-###
+### Di cosa mi occupo
 
-<p data-importer="text" align="left">✨ Creating bugs since 7th grade<br>📚 I'm currently learning C++ and HTML<br>🎯 Goals: obtain a degree in computer engineering<br>🎲 Fun fact: I really like messing around with math</p>
+- 📘 Sto realizzando un **libro di matematica**, scritto in LaTeX
+- 🧪 Curo una **dispensa di lavoro di laboratorio**
 
-###
+### Linguaggi e strumenti
 
-<h2 data-importer="text" align="left">I code with</h2>
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C1E?style=flat)
+![Flowgorithm](https://img.shields.io/badge/Flowgorithm-555555?style=flat)
 
-###
+### Contatti
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-</div>
+📧 [79345381@itiscastelli.onmicrosoft.com](mailto:79345381@itiscastelli.onmicrosoft.com)
 
-###
+---
+
+## 🇬🇧 English
+
+Hi, I'm **Marco Galanti**, also known as **Galantch**. I'm a student with a passion for mathematics and computer science.
+
+### What I work on
+
+- 📘 I'm writing a **mathematics book**, typeset in LaTeX
+- 🧪 I maintain a set of **laboratory work notes**
+
+### Languages and tools
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C1E?style=flat)
+![Flowgorithm](https://img.shields.io/badge/Flowgorithm-555555?style=flat)
+
+### Contact
+
+📧 [79345381@itiscastelli.onmicrosoft.com](mailto:79345381@itiscastelli.onmicrosoft.com)
