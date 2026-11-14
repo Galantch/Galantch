@@ -24,7 +24,7 @@ Ciao, sono **Marco Galanti**, detto **Galantch**. Sono uno studente appassionato
 
 ### Contatti
 
-📧 [79345381@itiscastelli.onmicrosoft.com](mailto:79345381@itiscastelli.onmicrosoft.com)
+📧 [marcogalanti30@gmail.com](mailto:marcogalanti30@gmail.com)
 
 ---
 
@@ -48,4 +48,4 @@ Hi, I'm **Marco Galanti**, also known as **Galantch**. I'm a student with a pass
 
 ### Contact
 
-📧 [79345381@itiscastelli.onmicrosoft.com](mailto:79345381@itiscastelli.onmicrosoft.com)
+📧 [marcogalanti30@gmail.com](mailto:marcogalanti30@gmail.com)
